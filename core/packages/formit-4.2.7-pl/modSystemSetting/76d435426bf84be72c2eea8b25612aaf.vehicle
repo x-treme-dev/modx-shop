@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'formit',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '372edc5e5a6a69ba5c51a1bc158417ab',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '76d435426bf84be72c2eea8b25612aaf',
+  'native_key' => 'formit.cleanform.days',
+  'object' => '{"key":"formit.cleanform.days","value":30,"xtype":"textfield","namespace":"formit","area":"formit","editedon":null}',
+);

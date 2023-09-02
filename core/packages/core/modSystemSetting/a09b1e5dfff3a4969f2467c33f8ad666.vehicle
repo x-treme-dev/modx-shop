@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => false,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '3a9b4339af6dfc6b54825ca8142ad4d6',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'a09b1e5dfff3a4969f2467c33f8ad666',
+  'native_key' => 'static_elements_automate_plugins',
+  'object' => '{"key":"static_elements_automate_plugins","value":"0","xtype":"combo-boolean","namespace":"core","area":"static_elements","editedon":null}',
+);

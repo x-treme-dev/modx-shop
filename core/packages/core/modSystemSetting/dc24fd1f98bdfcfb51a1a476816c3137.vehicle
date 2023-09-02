@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => false,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'fae7f60a4eaba4b860abadce1b01f966',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'dc24fd1f98bdfcfb51a1a476816c3137',
+  'native_key' => 'mgr_tree_icon_context',
+  'object' => '{"key":"mgr_tree_icon_context","value":"tree-context","xtype":"textfield","namespace":"core","area":"manager","editedon":null}',
+);

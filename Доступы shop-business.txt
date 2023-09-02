@@ -1,0 +1,26 @@
+БД с именем modx-revo
+
+Имя пользователя: modx-revo
+Имя хоста: localhost
+Пароль:  modx-revo
+Подтверждение: modx-revo
+
+Электронная почта администратора: andreicosenok@yandex.ru
+Вход в админ-панель:
+Логин администратора: modx-revo
+Пароль: modx-revo
+Подтверждение: modx-revo
+
+
+
+
+
+Пароль от хостинга Beget: $&KOs162
+
+Яндекс Почта: andreicosenok@yandex.ru
+ пароль:       &JeLLo765
+  логин:       andreicosenok
+
+
+
+

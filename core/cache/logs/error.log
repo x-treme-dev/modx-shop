@@ -1,0 +1,64 @@
+[2023-06-21 17:48:39] (ERROR @ W:\domains\revo-shop-business.local\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'modx-revo.smogfs_ms2_options' doesn't exist
+)
+
+[2023-06-21 17:51:32] (ERROR @ W:\domains\revo-shop-business.local\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'modx-revo.smogfs_ms2_options' doesn't exist
+)
+
+[2023-06-21 17:52:25] (ERROR @ W:\domains\revo-shop-business.local\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'modx-revo.smogfs_ms2_options' doesn't exist
+)
+
+[2023-06-21 18:01:43] (ERROR @ W:\domains\revo-shop-business.local\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'modx-revo.smogfs_ms2_options' doesn't exist
+)
+
+[2023-06-21 18:01:55] (ERROR @ W:\domains\revo-shop-business.local\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'modx-revo.smogfs_ms2_options' doesn't exist
+)
+
+[2023-06-21 18:02:09] (ERROR @ W:\domains\revo-shop-business.local\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'modx-revo.smogfs_ms2_options' doesn't exist
+)
+
+[2023-06-21 18:02:22] (ERROR @ W:\domains\revo-shop-business.local\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'modx-revo.smogfs_ms2_options' doesn't exist
+)
+
+[2023-09-02 12:08:54] (ERROR @ W:\domains\revo-shop-business.local\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'modx-revo.smogfs_ms2_options' doesn't exist
+)
+

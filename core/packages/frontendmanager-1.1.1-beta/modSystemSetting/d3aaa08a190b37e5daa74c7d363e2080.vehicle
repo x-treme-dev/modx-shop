@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => true,
+  'namespace' => 'frontendmanager',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'caf5293c9ec6c2f7f4d8e1e4e594308a',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'd3aaa08a190b37e5daa74c7d363e2080',
+  'native_key' => 'frontendmanager_frontend_position',
+  'object' => '{"key":"frontendmanager_frontend_position","value":"top","xtype":"textfield","namespace":"frontendmanager","area":"frontendmanager_frontend","editedon":null}',
+);

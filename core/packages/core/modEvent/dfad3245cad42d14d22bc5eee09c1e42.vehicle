@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '745b6fbeeaadfbb87bf133b321a8ee31',
+  'package' => 'modx',
+  'class' => 'modEvent',
+  'signature' => 'dfad3245cad42d14d22bc5eee09c1e42',
+  'native_key' => 'OnFileManagerDirRemove',
+  'object' => '{"name":"OnFileManagerDirRemove","service":1,"groupname":"System"}',
+);

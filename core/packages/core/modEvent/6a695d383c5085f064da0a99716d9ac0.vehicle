@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '9079f911d9cf0ace7f3520ecdda59841',
+  'package' => 'modx',
+  'class' => 'modEvent',
+  'signature' => '6a695d383c5085f064da0a99716d9ac0',
+  'native_key' => 'OnBeforeManagerLogin',
+  'object' => '{"name":"OnBeforeManagerLogin","service":2,"groupname":"Security"}',
+);
